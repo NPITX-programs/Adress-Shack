@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adress-Shack", "Adress-Shac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snackShack", "..\Snack-Shack\snackShack.csproj", "{0B7C67A3-C011-4C1B-AAE5-E8233779010F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdressBook", "..\..\App Dev 2\AdressBook\AdressBook.csproj", "{7C905DB3-E00C-4117-8906-E0BDE6090ADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B7C67A3-C011-4C1B-AAE5-E8233779010F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7C67A3-C011-4C1B-AAE5-E8233779010F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7C67A3-C011-4C1B-AAE5-E8233779010F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C905DB3-E00C-4117-8906-E0BDE6090ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C905DB3-E00C-4117-8906-E0BDE6090ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C905DB3-E00C-4117-8906-E0BDE6090ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C905DB3-E00C-4117-8906-E0BDE6090ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
